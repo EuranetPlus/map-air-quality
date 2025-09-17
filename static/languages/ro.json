@@ -1,13 +1,13 @@
 {
-  "heading": "Calitatea aerului în UE: este timpul pentru o actualizare?",
-  "subheading": "În toate țările UE, cu excepția celor cinci, cetățenii europeni care sunt conștienți de standardele UE de calitate a aerului consideră că acestea ar trebui înăsprite, cu o mare majoritate de 67% în medie în toată Europa.",
-  "legend1": "Nici o informatie disponibila",
+  "heading": "Calitatea aerului în UE: E timpul pentru o îmbunătățire?",
+  "subheading": "În toate țările UE, cu excepția a cinci, cetățenii europeni care sunt conștienți de standardele UE privind calitatea aerului consideră că acestea ar trebui înăsprite, cu o mare majoritate de 67% în medie în Europa.",
+  "legend1": "Nu sunt disponibile date",
   "tooltip1": "favorabil",
   "textSourceDescription": "Sursă",
   "textSource": "Eurobarometru",
-  "textNoteDescription": "Notă",
-  "textNote": "Lucru de teren efectuat din martie 2022 până în aprilie 2022. Interviurile au fost realizate față în față.",
+  "textNoteDescription": "Nota",
+  "textNote": "Munca de teren s-a desfășurat din martie 2022 până în aprilie 2022. Interviurile au fost realizate față în față.",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2660",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

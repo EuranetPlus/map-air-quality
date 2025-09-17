@@ -1,13 +1,13 @@
 {
-  "heading": "Levegőminőség az EU-ban: ideje frissíteni?",
-  "subheading": "Öt EU-tagállam kivételével az európai polgárok, akik tisztában vannak az EU levegőminőségi előírásaival, úgy gondolják, hogy szigorítani kellene azokat, Európa-szerte átlagosan 67%-kal.",
-  "legend1": "Nincs elérhető adat",
+  "heading": "Levegőminőség az EU-ban: Itt az ideje a fejlesztésnek?",
+  "subheading": "Öt uniós ország kivételével mindenhol az uniós levegőminőségi előírásokat ismerő európai polgárok nagy többségben, átlagosan 67%-ban úgy vélik, hogy azokat szigorítani kellene.",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "kedvező",
   "textSourceDescription": "Forrás",
   "textSource": "Eurobarométer",
-  "textNoteDescription": "jegyzet",
-  "textNote": "A terepmunka 2022 márciusa és 2022 áprilisa között zajlott. Az interjúk személyesen készültek.",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "A terepmunka 2022 márciusa és 2022 áprilisa között zajlott. Az interjúk személyesen történtek.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2660",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

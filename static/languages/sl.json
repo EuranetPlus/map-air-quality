@@ -1,13 +1,13 @@
 {
   "heading": "Kakovost zraka v EU: čas za nadgradnjo?",
-  "subheading": "V vseh državah EU, razen v petih, evropski državljani, ki poznajo standarde EU za kakovost zraka, menijo, da bi jih bilo treba poostriti, in sicer velika večina, povprečno 67 % po vsej Evropi.",
-  "legend1": "Ni podatkov",
+  "subheading": "V vseh državah EU razen v petih evropski državljani, ki poznajo standarde EU za kakovost zraka, menijo, da bi jih bilo treba poostriti, in sicer velika večina, ki v povprečju znaša 67 % po vsej Evropi.",
+  "legend1": "Ni na voljo podatkov",
   "tooltip1": "ugodno",
   "textSourceDescription": "Vir",
   "textSource": "Eurobarometer",
   "textNoteDescription": "Opomba",
-  "textNote": "Terensko delo je potekalo od marca 2022 do aprila 2022. Intervjuji so potekali iz oči v oči.",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textNote": "Terensko delo je potekalo od marca 2022 do aprila 2022. Intervjui so bili opravljeni osebno.",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2660",
   "textCountryClick": "Kliknite za več informacij"
 }

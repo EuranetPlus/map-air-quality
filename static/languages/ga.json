@@ -1,13 +1,13 @@
 {
-  "heading": "Cáilíocht Aeir san AE: Am le haghaidh Uasghrádú?",
-  "subheading": "I ngach ceann de thíortha an AE seachas cúig cinn, creideann saoránaigh Eorpacha atá ar an eolas faoi chaighdeáin cháilíochta aeir an AE gur cheart iad a theannú, trí thromlach mór 67% ar an meán ar fud na hEorpa.",
+  "heading": "Cáilíocht an Aeir san AE: Am le haghaidh Uasghrádaithe?",
+  "subheading": "I ngach tír san AE ach amháin cúig cinn, creideann saoránaigh Eorpacha atá ar an eolas faoi chaighdeáin cháilíochta aeir an AE gur cheart iad a dhéanamh níos déine, le tromlach mór de 67% ar an meán ar fud na hEorpa.",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "fabhrach",
   "textSourceDescription": "Foinse",
-  "textSource": "Eorabharaiméadair",
+  "textSource": "Eorabharaiméadar",
   "textNoteDescription": "Nóta",
-  "textNote": "Rinneadh obair allamuigh ó Mhárta 2022 go dtí Aibreán 2022. Rinneadh agallaimh duine le duine.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
+  "textNote": "Rinneadh an obair allamuigh ó Mhárta 2022 go dtí Aibreán 2022. Rinneadh na hagallaimh duine le duine.",
+  "textDataAccess": "Rochtain ar na sonraí",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2660",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

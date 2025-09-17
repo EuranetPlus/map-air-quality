@@ -1,13 +1,13 @@
 {
-  "heading": "Gaisa kvalitāte ES: laiks uzlabot?",
-  "subheading": "Visās ES valstīs, izņemot piecas, Eiropas pilsoņi, kuri ir informēti par ES gaisa kvalitātes standartiem, uzskata, ka tie ir jāpadara stingrāki, ar lielāko daļu vidēji 67 % visā Eiropā.",
-  "legend1": "Nav pieejami dati",
+  "heading": "Gaisa kvalitāte ES: vai ir pienācis laiks to uzlabot?",
+  "subheading": "Visās ES valstīs, izņemot piecas, Eiropas iedzīvotāji, kuri ir informēti par ES gaisa kvalitātes standartiem, uzskata, ka tie būtu jāpastiprina, un to uzskata liels vairākums – vidēji 67 % visā Eiropā.",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "labvēlīgs",
   "textSourceDescription": "Avots",
   "textSource": "Eirobarometrs",
   "textNoteDescription": "Piezīme",
-  "textNote": "Lauka darbi tika veikti no 2022. gada marta līdz 2022. gada aprīlim. Intervijas tika veiktas klātienē.",
+  "textNote": "Lauka darbs tika veikts no 2022. gada marta līdz 2022. gada aprīlim. Intervijas tika veiktas klātienē.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2660",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

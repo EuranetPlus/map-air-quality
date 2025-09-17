@@ -1,13 +1,13 @@
 {
-  "heading": "Luftkvalitet i EU: Dags för en uppgradering?",
-  "subheading": "I alla EU-länder utom fem anser europeiska medborgare som är medvetna om EU:s luftkvalitetsnormer att de bör skärpas, med en stor majoritet på 67 % i genomsnitt över hela Europa.",
-  "legend1": "Ingen data tillgänglig",
+  "heading": "Luftkvaliteten i EU: Dags för en uppgradering?",
+  "subheading": "I alla EU-länder utom fem anser europeiska medborgare som är medvetna om EU:s luftkvalitetsnormer att de bör skärpas, med en stor majoritet på 67 % i genomsnitt i hela Europa.",
+  "legend1": "Inga data tillgängliga",
   "tooltip1": "gynnsam",
   "textSourceDescription": "Källa",
-  "textSource": "Eurobarometer",
+  "textSource": "Eurobarometern",
   "textNoteDescription": "Notera",
-  "textNote": "Fältarbete utfördes från mars 2022 till april 2022. Intervjuer genomfördes ansikte mot ansikte.",
-  "textDataAccess": "Få åtkomst till data",
+  "textNote": "Fältarbetet utfördes från mars 2022 till april 2022. Intervjuerna genomfördes ansikte mot ansikte.",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2660",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Õhukvaliteet ELis: kas on aeg uuendada?",
-  "subheading": "Kõigis, välja arvatud viies ELi riigis, usuvad Euroopa kodanikud, kes on ELi õhukvaliteedi standarditest teadlikud, et neid tuleks karmistada. Keskmiselt 67% kogu Euroopas.",
-  "legend1": "Andmed puuduvad",
+  "heading": "Õhukvaliteet ELis: kas on aeg seda parandada?",
+  "subheading": "Kõigis peale viie ELi riigi usuvad Euroopa kodanikud, kes on teadlikud ELi õhukvaliteedi standarditest, et neid tuleks karmistada. See on Euroopas keskmiselt 67% suur enamus.",
+  "legend1": "Andmed pole saadaval",
   "tooltip1": "soodne",
   "textSourceDescription": "Allikas",
   "textSource": "Eurobaromeeter",
-  "textNoteDescription": "Märge",
-  "textNote": "Välitööd viidi läbi märtsist 2022 kuni aprillini 2022. Intervjuud viidi läbi silmast silma.",
+  "textNoteDescription": "Märkus",
+  "textNote": "Välitööd viidi läbi märtsist 2022 kuni aprillini 2022. Intervjuud viidi läbi näost näkku.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2660",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

@@ -1,13 +1,13 @@
 {
   "heading": "Luftqualität in der EU: Zeit für ein Upgrade?",
-  "subheading": "In allen außer fünf EU-Ländern sind europäische Bürger, die sich der EU-Luftqualitätsstandards bewusst sind, der Meinung, dass diese verschärft werden sollten, und zwar mit einer großen Mehrheit von durchschnittlich 67 % in ganz Europa.",
+  "subheading": "In allen EU-Ländern außer fünf sind die europäischen Bürger, die die EU-Luftqualitätsstandards kennen, der Meinung, dass diese verschärft werden sollten. Im europäischen Durchschnitt ist dies eine große Mehrheit von 67 %.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "günstig",
   "textSourceDescription": "Quelle",
   "textSource": "Eurobarometer",
   "textNoteDescription": "Notiz",
-  "textNote": "Die Feldforschung wurde von März 2022 bis April 2022 durchgeführt. Die Interviews wurden persönlich durchgeführt.",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textNote": "Die Feldarbeit wurde von März 2022 bis April 2022 durchgeführt. Die Interviews wurden persönlich durchgeführt.",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2660",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

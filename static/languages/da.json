@@ -1,13 +1,13 @@
 {
   "heading": "Luftkvalitet i EU: Tid til en opgradering?",
-  "subheading": "I alle EU-lande undtagen fem mener europæiske borgere, som er opmærksomme på EU's luftkvalitetsstandarder, at de bør strammes med et stort flertal på 67 % i gennemsnit i hele Europa.",
-  "legend1": "Ingen tilgængelig data",
-  "tooltip1": "gunstige",
+  "subheading": "I alle EU-lande undtagen fem mener europæiske borgere, der er bekendt med EU's luftkvalitetsstandarder, at de bør strammes, med et stort flertal på 67 % i gennemsnit på tværs af Europa.",
+  "legend1": "Ingen data tilgængelige",
+  "tooltip1": "gunstig",
   "textSourceDescription": "Kilde",
   "textSource": "Eurobarometer",
-  "textNoteDescription": "Bemærk",
-  "textNote": "Feltarbejde udført fra marts 2022 til april 2022. Interviews blev gennemført ansigt til ansigt.",
-  "textDataAccess": "Få adgang til data",
+  "textNoteDescription": "Note",
+  "textNote": "Feltarbejde udført fra marts 2022 til april 2022. Interviewene blev gennemført ansigt til ansigt.",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2660",
-  "textCountryClick": "Klik for mere info"
+  "textCountryClick": "Klik for mere information"
 }

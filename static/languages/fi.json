@@ -1,13 +1,13 @@
 {
-  "heading": "Ilmanlaatu EU:ssa: onko aika päivittää?",
-  "subheading": "Kaikissa EU-maassa viittä lukuun ottamatta Euroopan kansalaiset, jotka ovat tietoisia EU:n ilmanlaatustandardeista, uskovat, että niitä pitäisi tiukentaa. Suurin enemmistö on keskimäärin 67 prosenttia kaikkialla Euroopassa.",
-  "legend1": "Tietoja ei ole saatavilla",
+  "heading": "Ilmanlaatu EU:ssa: Onko aika parantaa?",
+  "subheading": "Kaikissa muissa paitsi viidessä EU-maassa EU:n ilmanlaatunormeista tietoiset eurooppalaiset uskovat, että niitä olisi tiukennettava. Suurin osa kansalaisista, keskimäärin 67 % Euroopassa, uskoo, että niitä olisi tiukennettava.",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "suotuisa",
   "textSourceDescription": "Lähde",
   "textSource": "Eurobarometri",
   "textNoteDescription": "Huomautus",
-  "textNote": "Kenttätyötä tehtiin maaliskuusta 2022 huhtikuuhun 2022. Haastattelut tehtiin kasvokkain.",
+  "textNote": "Kenttätyö tehtiin maaliskuusta 2022 huhtikuuhun 2022. Haastattelut tehtiin kasvotusten.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2660",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

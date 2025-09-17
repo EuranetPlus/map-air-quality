@@ -1,13 +1,13 @@
 {
-  "heading": "Kvaliteta zraka u EU: Vrijeme je za nadogradnju?",
-  "subheading": "U svim zemljama EU-a osim pet, europski građani koji su upoznati sa standardima EU-a za kvalitetu zraka vjeruju da bi ih trebalo postrožiti, velikom većinom od 67% u prosjeku diljem Europe.",
+  "heading": "Kvaliteta zraka u EU: Vrijeme je za poboljšanje?",
+  "subheading": "U svim zemljama EU-a osim pet, europski građani koji su svjesni standarda EU-a za kvalitetu zraka smatraju da bi ih trebalo pooštriti, i to velikom većinom od 67% u prosjeku diljem Europe.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "povoljan",
   "textSourceDescription": "Izvor",
   "textSource": "Eurobarometar",
   "textNoteDescription": "Bilješka",
-  "textNote": "Terenski rad proveden od ožujka 2022. do travnja 2022. Intervjui su vođeni licem u lice.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Terenski rad proveden je od ožujka 2022. do travnja 2022. Intervjui su provedeni licem u lice.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2660",
   "textCountryClick": "Kliknite za više informacija"
 }

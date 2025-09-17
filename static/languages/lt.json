@@ -1,13 +1,13 @@
 {
-  "heading": "Oro kokybė ES: laikas atnaujinti?",
-  "subheading": "Visose ES šalyse, išskyrus penkias, Europos piliečiai, žinantys ES oro kokybės standartus, mano, kad jie turėtų būti sugriežtinti, o didžioji dauguma – vidutiniškai 67 % visoje Europoje.",
+  "heading": "Oro kokybė ES: laikas ją pagerinti?",
+  "subheading": "Visose ES šalyse, išskyrus penkias, Europos piliečiai, kurie žino ES oro kokybės standartus, mano, kad juos reikėtų sugriežtinti – tai sudaro didžiąją daugumą (vidutiniškai 67 %) visoje Europoje.",
   "legend1": "Nėra duomenų",
   "tooltip1": "palankus",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurobarometras",
   "textNoteDescription": "Pastaba",
-  "textNote": "Lauko darbai vyko nuo 2022 m. kovo iki 2022 m. balandžio mėn. Pokalbiai buvo atliekami akis į akį.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "Lauko darbas atliktas nuo 2022 m. kovo iki 2022 m. balandžio mėn. Pokalbiai buvo atliekami akis į akį.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2660",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

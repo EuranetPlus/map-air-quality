@@ -1,13 +1,13 @@
 {
   "heading": "Jakość powietrza w UE: czas na poprawę?",
-  "subheading": "We wszystkich krajach UE z wyjątkiem pięciu obywatele europejscy, którzy są świadomi unijnych norm jakości powietrza, uważają, że należy je zaostrzyć – zdecydowana większość – średnio 67% w całej Europie.",
+  "subheading": "W prawie wszystkich krajach UE, z wyjątkiem pięciu, obywatele europejscy, którzy znają unijne normy jakości powietrza, uważają, że należy je zaostrzyć. Średnia odpowiedź w całej Europie wyniosła 67%.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "korzystny",
   "textSourceDescription": "Źródło",
   "textSource": "Eurobarometr",
   "textNoteDescription": "Notatka",
-  "textNote": "Badania terenowe prowadzono od marca 2022 r. do kwietnia 2022 r. Wywiady przeprowadzono w formie bezpośredniej.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
-  "linkDataAccess": "https://europa.eu/eurobarometr/surveys/detail/2660",
+  "textNote": "Badania terenowe prowadzono od marca do kwietnia 2022 r. Wywiady przeprowadzano twarzą w twarz.",
+  "textDataAccess": "Dostęp do danych",
+  "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2660",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

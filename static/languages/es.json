@@ -1,13 +1,13 @@
 {
-  "heading": "Calidad del aire en la UE: ¿es hora de mejorar?",
-  "subheading": "En todos los países de la UE, excepto cinco, los ciudadanos europeos que conocen los estándares de calidad del aire de la UE creen que deberían ser más estrictos, por una gran mayoría del 67% en promedio en toda Europa.",
-  "legend1": "Datos no disponibles",
+  "heading": "Calidad del aire en la UE: ¿es hora de mejorarla?",
+  "subheading": "En todos los países de la UE, excepto cinco, los ciudadanos europeos que conocen las normas de calidad del aire de la UE creen que deberían ser más estrictas, una gran mayoría del 67 % de media en toda Europa.",
+  "legend1": "No hay datos disponibles",
   "tooltip1": "favorable",
   "textSourceDescription": "Fuente",
   "textSource": "Eurobarómetro",
   "textNoteDescription": "Nota",
-  "textNote": "Trabajo de campo realizado desde marzo de 2022 hasta abril de 2022. Las entrevistas se realizaron de forma presencial.",
-  "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2660",
+  "textNote": "Trabajo de campo realizado desde marzo de 2022 hasta abril de 2022. Las entrevistas se realizaron cara a cara.",
+  "textDataAccess": "Acceder a los datos",
+  "linkDataAccess": "https://europa.eu/eurobarómetro/surveys/detail/2660",
   "textCountryClick": "Haga clic para más información"
 }
